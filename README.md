@@ -32,7 +32,6 @@ visual studio 2022[点击下载](https://visualstudio.microsoft.com/zh-hans/than
 TRELLIS整合包视频教程：[youtube>>](https://youtu.be/pcuaZPrb0zo?si=Ld89QmCPgk0XGDfr)
 
 
-常见问题说明：https://nuowa.net/1607
 
 ### 注意事项
 
