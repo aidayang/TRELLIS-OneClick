@@ -35,19 +35,26 @@ TRELLIS整合包视频教程：[youtube>>](https://youtu.be/pcuaZPrb0zo?si=Ld89Q
 
 ### 注意事项
 
-由于低端显卡性能较低生成时间较长，建议英伟达显卡30、40系列用户使用。
-
 整合包只支持Windows 10或11系统
 
 软件运行路径中不要有非英文字符和空格
 
 使用前请先将英伟达显卡驱动更新到最新版本，否则可能会报错
 
+有些人解压软件时可能会遇到报错问题，不用管直接忽略就可以，不影响软件使用
+
 ### TRELLIS一键启动整合包下载链接
+英伟达30或40系列下载：
 
 [https://pan.quark.cn/s/3f0d9af595a8](https://pan.quark.cn/s/3f0d9af595a8)
 
 [https://pan.baidu.com/s/1HUx8HCSKX3CHypwnkiIawA?pwd=beft](https://pan.baidu.com/s/1HUx8HCSKX3CHypwnkiIawA?pwd=beft)
+
+英伟达显卡通用系列下载：
+
+https://pan.quark.cn/s/dd878022f2fb
+
+https://pan.baidu.com/s/1AOAG0t3p7cOIV0VlRu30bg?pwd=wwpf
 
 ## TRELLIS项目地址
 
