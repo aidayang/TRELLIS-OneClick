@@ -20,7 +20,7 @@ visual studio 2022[点击下载](https://visualstudio.microsoft.com/zh-hans/than
 
 ### 安装cuda
 
-点击链接：https://developer.nvidia.com/cuda-toolkit-archive，根据你的电脑系统下载12.8cuda安装程序。安装程序下载到电脑上之后双击安装，全程保持默认就可以。
+点击链接：[https://developer.nvidia.com/cuda-toolkit-archive](https://developer.nvidia.com/cuda-toolkit-archive)，根据你的电脑系统下载12.8cuda安装程序。安装程序下载到电脑上之后双击安装，全程保持默认就可以。
 
 
 
