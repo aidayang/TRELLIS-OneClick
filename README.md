@@ -20,9 +20,9 @@ visual studio 2022[点击下载](https://visualstudio.microsoft.com/zh-hans/than
 
 ### 安装cuda
 
-点击链接：[https://developer.nvidia.com/cuda-12-4-0-download-archive](https://developer.nvidia.com/cuda-12-4-0-download-archive)，根据你的电脑系统下载12.4cuda安装程序。鼠标右键点击download按钮，选择复制链接地址，将下载地址复制到迅雷里可实现高速下载，安装程序下载到电脑上之后双击安装，全程保持默认就可以。
+点击链接：https://developer.nvidia.com/cuda-toolkit-archive，根据你的电脑系统下载12.8cuda安装程序。安装程序下载到电脑上之后双击安装，全程保持默认就可以。
 
-![](https://github.com/aidayang/TRELLIS-OneClick/blob/main/docs/images/2.jpg?raw=true)
+
 
 ### 使用TRELLIS
 
@@ -50,11 +50,11 @@ TRELLIS整合包视频教程：[youtube>>](https://youtu.be/pcuaZPrb0zo?si=Ld89Q
 
 [https://pan.baidu.com/s/1HUx8HCSKX3CHypwnkiIawA?pwd=beft](https://pan.baidu.com/s/1HUx8HCSKX3CHypwnkiIawA?pwd=beft)
 
-英伟达显卡通用系列下载：
+英伟达显卡通用系列(支持50x)下载：
 
-https://pan.quark.cn/s/dd878022f2fb
+https://pan.quark.cn/s/a96c479ea6c9
 
-https://pan.baidu.com/s/1AOAG0t3p7cOIV0VlRu30bg?pwd=wwpf
+https://pan.baidu.com/s/1HUx8HCSKX3CHypwnkiIawA?pwd=beft
 
 ## TRELLIS项目地址
 
