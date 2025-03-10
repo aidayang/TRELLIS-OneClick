@@ -52,7 +52,7 @@ TRELLIS整合包视频教程：[youtube>>](https://youtu.be/pcuaZPrb0zo?si=Ld89Q
 
 英伟达显卡通用系列(支持50x)下载：
 
-https://pan.quark.cn/s/a96c479ea6c9
+https://pan.quark.cn/s/efeaf1e551ea
 
 https://pan.baidu.com/s/1HUx8HCSKX3CHypwnkiIawA?pwd=beft
 
