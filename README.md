@@ -29,7 +29,7 @@ visual studio 2022[点击下载](https://visualstudio.microsoft.com/zh-hans/than
 将TRELLIS整合包下载到电脑上并解压，双击【启动软件.exe】，稍等一会即可启动webUI界面。上传图片素材点击生成按钮即可生成预览，点击GLB提取，即可生成GLB格式文件，界面操作比较简单。
 ![](https://raw.githubusercontent.com/aidayang/TRELLIS-OneClick/refs/heads/main/docs/images/2.webp)
 
-TRELLIS整合包视频教程：[youtube>>](https://youtu.be/pcuaZPrb0zo?si=Ld89QmCPgk0XGDfr)
+TRELLIS整合包视频教程：[youtube>>](https://www.youtube.com/watch?v=XrUroTf2Cfk)
 
 
 
