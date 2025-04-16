@@ -29,9 +29,11 @@ visual studio 2022[点击下载](https://visualstudio.microsoft.com/zh-hans/than
 将TRELLIS整合包下载到电脑上并解压，双击【启动软件.exe】，稍等一会即可启动webUI界面。上传图片素材点击生成按钮即可生成预览，点击GLB提取，即可生成GLB格式文件，界面操作比较简单。
 ![](https://raw.githubusercontent.com/aidayang/TRELLIS-OneClick/refs/heads/main/docs/images/2.webp)
 
-TRELLIS整合包视频教程：[youtube>>](https://www.youtube.com/watch?v=XrUroTf2Cfk)
+TRELLIS整合包视频教程：https://www.youtube.com/watch?v=sfy-aF6lQ80
 
+2025-04-12
 
+整合包更新文本转3D功能，通过输入文本描述词快速生成3D模型文件
 
 ### 注意事项
 
@@ -44,17 +46,13 @@ TRELLIS整合包视频教程：[youtube>>](https://www.youtube.com/watch?v=XrUro
 有些人解压软件时可能会遇到报错问题，不用管直接忽略就可以，不影响软件使用
 
 ### TRELLIS一键启动整合包下载链接
-英伟达30或40系列下载：
-
-[https://pan.quark.cn/s/3f0d9af595a8](https://pan.quark.cn/s/3f0d9af595a8)
-
-[https://pan.baidu.com/s/1HUx8HCSKX3CHypwnkiIawA?pwd=beft](https://pan.baidu.com/s/1HUx8HCSKX3CHypwnkiIawA?pwd=beft)
-
-英伟达显卡通用系列(支持50x)下载：
-
 https://pan.quark.cn/s/efeaf1e551ea
 
 https://pan.baidu.com/s/1HUx8HCSKX3CHypwnkiIawA?pwd=beft
+
+英伟达50系列显卡用户下载带50X的压缩包，20-40系列显卡下载不带50X的。
+
+50X版本不支持文本转3D
 
 ## TRELLIS项目地址
 
