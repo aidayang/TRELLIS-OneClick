@@ -45,14 +45,12 @@ TRELLIS整合包视频教程：https://www.youtube.com/watch?v=sfy-aF6lQ80
 
 有些人解压软件时可能会遇到报错问题，不用管直接忽略就可以，不影响软件使用
 
-### TRELLIS一键启动整合包下载链接
+### TRELLIS本地一键启动整合包下载链接
 https://pan.quark.cn/s/efeaf1e551ea
 
-https://pan.baidu.com/s/1HUx8HCSKX3CHypwnkiIawA?pwd=beft
+### 在线一键启动连接
 
-英伟达50系列显卡用户下载带50X的压缩包，20-40系列显卡下载不带50X的。
-
-50X版本不支持文本转3D
+[点击使用云镜像>>](https://www.compshare.cn/images/hajFvqksOUfq?referral_code=FlfHWpg22A9EnXni6kYKRv&ytag=GPU_yy_aidayang1022)
 
 ## TRELLIS项目地址
 
